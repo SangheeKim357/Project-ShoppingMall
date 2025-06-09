@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "title": "Nike 에어 줌 러닝화",
+    "price": 149000,
+    "image": "/images/나이키.png",
+    "description": "가벼운 쿠셔닝과 통기성을 갖춘 러닝화."
+  },
+  {
+    "id": 2,
+    "title": "Adidas 오리지널 후드티",
+    "price": 89000,
+    "image": "/images/아디다스.png",
+    "description": "스타일과 편안함을 동시에 잡은 후드티."
+  },
+  {
+    "id": 3,
+    "title": "The North Face 패딩 자켓",
+    "price": 199000,
+    "image": "/images/노페.png",
+    "description": "보온성이 뛰어난 겨울용 패딩 자켓."
+  },
+  {
+    "id": 4,
+    "title": "Uniqlo 히트텍 내의",
+    "price": 29000,
+    "image": "/images/히트텍.png",
+    "description": "추운 날씨에도 따뜻함을 유지하는 기능성 내의."
+  },
+  {
+    "id": 5,
+    "title": "Zara 클래식 블레이저",
+    "price": 129000,
+    "image": "/images/자라.png",
+    "description": "세련된 디자인의 포멀한 블레이저."
+  },
+  {
+    "id": 6,
+    "title": "Levi's 501 스트레이트 핏 청바지",
+    "price": 99000,
+    "image": "/images/리바이스.png",
+    "description": "클래식한 스타일의 스트레이트 핏 청바지."
+  },
+  {
+    "id": 7,
+    "title": "Under Armour 스포츠 레깅스",
+    "price": 59000,
+    "image": "/images/언더아머.png",
+    "description": "운동 시 최적의 편안함을 제공하는 레깅스."
+  },
+  {
+    "id": 8,
+    "title": "Columbia 방수 등산 자켓",
+    "price": 179000,
+    "image": "/images/컬럼비아.png",
+    "description": "비바람에도 강한 방수 기능성 자켓."
+  },
+  {
+    "id": 9,
+    "title": "New Balance 574 스니커즈",
+    "price": 109000,
+    "image": "/images/뉴발란스.png",
+    "description": "캐주얼하면서도 편안한 스니커즈."
+  },
+  {
+    "id": 10,
+    "title": "Gucci GG 로고 티셔츠",
+    "price": 350000,
+    "image": "/images/구찌.png",
+    "description": "고급스러운 디자인의 브랜드 티셔츠."
+  },
+  {
+    "id": 11,
+    "title": "Nike 드라이 핏 트레이닝 팬츠",
+    "price": 79000,
+    "image": "/images/나이키팬츠.png",
+    "description": "흡습속건 기능이 뛰어난 운동 팬츠."
+  },
+  {
+    "id": 12,
+    "title": "Tommy Hilfiger 폴로 셔츠",
+    "price": 95000,
+    "image": "/images/타미힐피거.png",
+    "description": "깔끔한 디자인의 캐주얼 폴로 셔츠."
+  },
+  {
+    "id": 13,
+    "title": "Patagonia 플리스 자켓",
+    "price": 149000,
+    "image": "/images/파타고니아.png",
+    "description": "친환경 소재로 만든 따뜻한 플리스 자켓."
+  },
+  {
+    "id": 14,
+    "title": "Calvin Klein 로고 후드티",
+    "price": 115000,
+    "image": "/images/캘빈클라인.png",
+    "description": "미니멀한 로고 디자인의 후드티."
+  },
+  {
+    "id": 15,
+    "title": "Fila 클래식 트랙수트",
+    "price": 120000,
+    "image": "/images/휠라.png",
+    "description": "스포티한 디자인의 트랙수트."
+  },
+  {
+    "id": 16,
+    "title": "Balenciaga 오버사이즈 티셔츠",
+    "price": 1300000,
+    "image": "/images/발렌시아가.png",
+    "description": "트렌디한 오버사이즈 핏의 티셔츠."
+  },
+  {
+    "id": 17,
+    "title": "Valentino V-Logo 가디건",
+    "price": 1800000,
+    "image": "/images/발렌티노.png",
+    "description": "Signiture Logo 가디건."
+  },
+  {
+    "id": 18,
+    "title": "H&M 니트 스웨터",
+    "price": 40000,
+    "image": "/images/에이치엔엠.png",
+    "description": "유니크한 디자인의 니트."
+  },
+  {
+    "id": 19,
+    "title": "Lacoste 크루넥 스웨터",
+    "price": 120000,
+    "image": "/images/라코스테.png",
+    "description": "고급스러운 디자인의 크루넥 스웨터."
+  },
+  {
+    "id": 20,
+    "title": "Burberry 머플러",
+    "price": 500000,
+    "image": "/images/버버리.png",
+    "description": "하이엔드 스타일의 따듯한 머플러."
+  }
+]
